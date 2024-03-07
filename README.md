@@ -7,35 +7,64 @@
 # 🧑‍💻 Projects
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Tataap</h3>
-<div align="center">
-<a href="https://github.com/marcosferr/Forest-Flame-App" target="_blank"><img src="https://i.imgur.com/8LFWQcL.png" width="400" alt="Tataap Web Application"></a>
-<p>
-<a href="https://github.com/marcosferr/Forest-Flame-App" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+  <tr>
+  <td width="50%">
+  <h3 align="center">Robi AI Chatbot</h3>
+  <div align="center">
+  <a href="https://github.com/marcosferr/chatbot-portafolio" target="_blank"><img src="https://imgur.com/a/DdP4JBR" width="400" alt="Robi AI Chatbot"></a>
+  <p>
+  <a href="https://github.com/marcosferr/Forest-Flame-App" target="_blank">
+  <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+  
+  </p>
+  <p>Robi is a chatbot using GPT Assistants API. It is designed to showcase my skills and knowledge</p>
+  </div>
+                                                                                        
+  </td>       
+  
+  <td width="50%">
+  <h3 align="center">Techstars Startup Weekend</h3>
+  <div align="center">
+  <a href="https://startupweekendencarnacion.com/" target="_blank"><img src="https://i.imgur.com/tmlNRS2.png" width="400" alt="Techstars Startup weekend"></a>
+  <p>
+  <a href="https://startupweekendencarnacion.com/" target="_blank">
+  <img src="https://img.shields.io/badge/see_it-live-green">
+  </a>
+  </p>
+  <p>End to End development of Techstars Startup Weeekend Agro Food Itapúa 2023 Landing Page. It is a project that uses WooCommerce and has payments integration.</p>
+  </div>
+                                                                                        
+  </td>  
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Se Parte Crowdfunding Platform</h3>
+      <div align="center">
+      <a href="https://github.com/marcosferr/chatbot-portafolio" target="_blank"><img src="https://imgur.com/a/DdP4JBR" width="400" alt="Robi AI Chatbot"></a>
+      <p>
+      <a href="https://github.com/marcosferr/Forest-Flame-App" target="_blank">
+      <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </p>
+      <p>Se Parte es una plataforma de Crowdfunding Paraguaya inspirada en un proyecto del mismo nombre. Fue desarrollado en el marco de proyecto final colaborativo en el bootcamp Coding Dojo FullStack</p>
+      </div>                                                                            
+      </td>       
+      <td width="50%">
+      <h3 align="center">NextJS Blog El Aprendiz</h3>
+      <div align="center">
+      <a href="https://startupweekendencarnacion.com/" target="_blank"><img src="https://i.imgur.com/tmlNRS2.png" width="400" alt="Techstars Startup weekend"></a>
+      <p>
+      <a href="https://startupweekendencarnacion.com/" target="_blank">
+      <img src="https://img.shields.io/badge/see_it-live-green">
+      </a>
+      </p>
+      <p>Blog dinamico desarrollado en NextJS. El mismo fue desarrollado pensando en ser una fuente de tutoriales para 
+      estudiantes de programación. Con contenido relacionado a el bootcamp de Coding Dojo FullStack.
+      </p>
+      </div>                                                                               
+      </td>  
+  </tr>
 
-</p>
-<p>Tataap is a web application developed for fire detection. It uses geolocation and satelite data from the MODIS FIRMS NASA API</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Techstars Startup Weekend</h3>
-<div align="center">
-<a href="https://startupweekendencarnacion.com/" target="_blank"><img src="https://i.imgur.com/tmlNRS2.png" width="400" alt="Techstars Startup weekend"></a>
-<p>
-<a href="https://startupweekendencarnacion.com/" target="_blank">
-<img src="https://img.shields.io/badge/see_it-live-green">
-</a>
-</p>
-<p>End to End development of Techstars Startup Weeekend Agro Food Itapúa 2023 Landing Page. It is a project that uses WooCommerce and has payments integration.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
+  </table>                                                                                                           
 </div>
 <br>
 
