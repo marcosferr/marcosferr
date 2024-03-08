@@ -11,9 +11,9 @@
   <td width="50%">
   <h3 align="center">Robi AI Chatbot</h3>
   <div align="center">
-  <a href="https://github.com/marcosferr/chatbot-portafolio" target="_blank">[Imgur](https://imgur.com/n7o92PT)</a>
+  <a href="https://github.com/marcosferr/chatbot-portafolio" target="_blank"> <img src="https://i.imgur.com/2ZtMVY0.jpg" alt="Robi Image"></a>
   <p>
-  <a href="https://github.com/marcosferr/Forest-Flame-App" target="_blank">
+  <a href="https://github.com/marcosferr/chatbot-portafolio" target="_blank">
   <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
   
   </p>
@@ -25,7 +25,7 @@
   <td width="50%">
   <h3 align="center">Techstars Startup Weekend</h3>
   <div align="center">
-  <a href="https://startupweekendencarnacion.com/" target="_blank"><img src="[Imgur](https://imgur.com/n7o92PT)" width="400" alt="Techstars Startup weekend"></a>
+  <a href="https://startupweekendencarnacion.com/" target="_blank"><img src="https://i.imgur.com/tmlNRS2.png"  " width="400" alt="Techstars Startup weekend"></a>
   <p>
   <a href="https://startupweekendencarnacion.com/" target="_blank">
   <img src="https://img.shields.io/badge/see_it-live-green">
@@ -40,9 +40,9 @@
     <td width="50%">
       <h3 align="center">Se Parte Crowdfunding Platform</h3>
       <div align="center">
-      <a href="https://github.com/marcosferr/chatbot-portafolio" target="_blank"><img src="https://imgur.com/a/DdP4JBR" width="400" alt="Robi AI Chatbot"></a>
+      <a href="https://github.com/geroxima/separte" target="_blank"><img src="https://i.imgur.com/n7o92PT.jpg" width="400" alt="Robi AI Chatbot"></a>
       <p>
-      <a href="https://github.com/marcosferr/Forest-Flame-App" target="_blank">
+      <a href="https://github.com/geroxima/separte" target="_blank">
       <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
       </p>
       <p>Se Parte es una plataforma de Crowdfunding Paraguaya inspirada en un proyecto del mismo nombre. Fue desarrollado en el marco de proyecto final colaborativo en el bootcamp Coding Dojo FullStack</p>
@@ -51,10 +51,10 @@
       <td width="50%">
       <h3 align="center">NextJS Blog El Aprendiz</h3>
       <div align="center">
-      <a href="https://startupweekendencarnacion.com/" target="_blank"><img src="https://imgur.com/n7o92PT" width="400" alt="Techstars Startup weekend"></a>
+      <a href="https://github.com/marcosferr/next-blog" target="_blank"><img src="https://i.imgur.com/MhzyKDB.png" width="400" alt="NextJS Blog"></a>
       <p>
-      <a href="https://startupweekendencarnacion.com/" target="_blank">
-      <img src="https://img.shields.io/badge/see_it-live-green">
+      <a href="https://next-blog-orcin-tau.vercel.app/" target="_blank">
+       <img src="https://img.shields.io/badge/see_it-live-green">
       </a>
       </p>
       <p>Blog dinamico desarrollado en NextJS. El mismo fue desarrollado pensando en ser una fuente de tutoriales para 
