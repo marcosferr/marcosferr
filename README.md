@@ -11,7 +11,7 @@
   <td width="50%">
   <h3 align="center">Robi AI Chatbot</h3>
   <div align="center">
-  <a href="https://github.com/marcosferr/chatbot-portafolio" target="_blank"><img src="https://imgur.com/a/DdP4JBR" width="400" alt="Robi AI Chatbot"></a>
+  <a href="https://github.com/marcosferr/chatbot-portafolio" target="_blank">[Imgur](https://imgur.com/n7o92PT)</a>
   <p>
   <a href="https://github.com/marcosferr/Forest-Flame-App" target="_blank">
   <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -51,7 +51,7 @@
       <td width="50%">
       <h3 align="center">NextJS Blog El Aprendiz</h3>
       <div align="center">
-      <a href="https://startupweekendencarnacion.com/" target="_blank"><img src="https://i.imgur.com/tmlNRS2.png" width="400" alt="Techstars Startup weekend"></a>
+      <a href="https://startupweekendencarnacion.com/" target="_blank"><img src="https://imgur.com/n7o92PT" width="400" alt="Techstars Startup weekend"></a>
       <p>
       <a href="https://startupweekendencarnacion.com/" target="_blank">
       <img src="https://img.shields.io/badge/see_it-live-green">
