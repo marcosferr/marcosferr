@@ -25,7 +25,7 @@
   <td width="50%">
   <h3 align="center">Techstars Startup Weekend</h3>
   <div align="center">
-  <a href="https://startupweekendencarnacion.com/" target="_blank"><img src="https://i.imgur.com/tmlNRS2.png" width="400" alt="Techstars Startup weekend"></a>
+  <a href="https://startupweekendencarnacion.com/" target="_blank"><img src="[Imgur](https://imgur.com/n7o92PT)" width="400" alt="Techstars Startup weekend"></a>
   <p>
   <a href="https://startupweekendencarnacion.com/" target="_blank">
   <img src="https://img.shields.io/badge/see_it-live-green">
